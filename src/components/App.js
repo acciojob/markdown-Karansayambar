@@ -58,7 +58,7 @@ function App() {
         />
       </div>
       <div className="preview">
-        <h1 className="loading">{state}</h1>
+        <b className="loading">{state}</b>
       </div>
     </div>
   );
